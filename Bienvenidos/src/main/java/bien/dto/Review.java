@@ -10,7 +10,7 @@ public class Review {
 	private String region;
 	private String cate;
 	private String title;
-	private Date date;
+	private Date rDate;
 	private String course;
 	private String sights;
 	private String contents;
@@ -20,7 +20,7 @@ public class Review {
 	@Override
 	public String toString() {
 		return "Review [reIdx=" + reIdx + ", email=" + email + ", platform=" + platform + ", region=" + region
-				+ ", cate=" + cate + ", title=" + title + ", date=" + date + ", course=" + course + ", sights=" + sights
+				+ ", cate=" + cate + ", title=" + title + ", date=" + rDate + ", course=" + course + ", sights=" + sights
 				+ ", contents=" + contents + ", rwDate=" + rwDate + ", hit=" + hit + "]";
 	}
 
@@ -73,11 +73,11 @@ public class Review {
 	}
 
 	public Date getDate() {
-		return date;
+		return rDate;
 	}
 
 	public void setDate(Date date) {
-		this.date = date;
+		this.rDate = date;
 	}
 
 	public String getCourse() {

@@ -2,7 +2,7 @@ package bien.dto;
 
 import java.util.Date;
 
-public class Comment {
+public class Comments {
 	
 	private int coIdx;
 	private String type;
