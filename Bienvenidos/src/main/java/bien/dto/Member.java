@@ -1,6 +1,6 @@
 package bien.dto;
 
-public class User {
+public class Member {
 	
 	private String token;
 	private String platform;
