@@ -4,9 +4,9 @@
 </head>
 <body>
 <div class="container">
-	<div class="d-flex bd-highlight mb-3">
+	<div class="d-flex bd-highlight mb-1">
 		<a class="p2 bd-highlight navbar-brand" href="#">
-			<img style="position: relative; top: 4px; left: 2px; height: 50px;" src="/resources/image/BBienvenidos.png" />
+			<img style="position: relative; top: 10px; left: 2px; height: 50px;" src="/resources/image/BBienvenidos.png" />
 		</a>
 		<a class="mt-2 ml-auto p-2 bd-highlight" href="#">
 			<img src="/resources/image/Bfacebook45.png"/>
@@ -21,4 +21,5 @@
 			<img src="/resources/image/Spain.png"/>
 		</a>
 	</div>
+	<div style="height: 5px; background-color: rgb(183, 0, 56);"></div>
 </div>
