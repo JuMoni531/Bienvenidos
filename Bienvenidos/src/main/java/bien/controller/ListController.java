@@ -11,12 +11,28 @@ public class ListController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(ListController.class);
 
-	@RequestMapping(value="/festival", method=RequestMethod.GET)
+	@RequestMapping(value="/list/festival", method=RequestMethod.GET)
 	public String listOfFestival() {
-		   	
-		logger.info("리스트페이지"); 
+	
+		return "/list/festival";
+	}
+	
+	@RequestMapping(value="/list/review", method=RequestMethod.GET)
+	public String listOfReview() {
+		   
+		return "/list/review";
+	}
+	
+	@RequestMapping(value="/list/dorm", method=RequestMethod.GET)
+	public String listOfDorm() {
 		
-		return "festival";
+		return "/list/dorm";
+	}
+	
+	@RequestMapping(value="/list/sights", method=RequestMethod.GET)
+	public String listOfSights() {
+		
+		return "/list/sights";
 	}
 
 }

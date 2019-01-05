@@ -6,7 +6,7 @@
 	<div class="container">
 		<div class="img">
 			<div class="content">
-				<h3>시즌 축제</h3>
+				<h3>명소</h3>
 			</div>
 			<div class="img-cover"></div>
 		</div>			
@@ -16,20 +16,10 @@
 		<div class="dropdown">
 			<button class="btn dropdown-toggle" type="button"
 				id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true"
-				aria-expanded="false" style="float: left">월 선택</button>
+				aria-expanded="false" style="float: left">지역 선택</button>
 			<div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-				<button class="dropdown-item" type="button">1월</button>
-				<button class="dropdown-item" type="button">2월</button>
-				<button class="dropdown-item" type="button">3월</button>
-				<button class="dropdown-item" type="button">4월</button>
-				<button class="dropdown-item" type="button">5월</button>
-				<button class="dropdown-item" type="button">6월</button>
-				<button class="dropdown-item" type="button">7월</button>
-				<button class="dropdown-item" type="button">8월</button>
-				<button class="dropdown-item" type="button">9월</button>
-				<button class="dropdown-item" type="button">10월</button>
-				<button class="dropdown-item" type="button">11월</button>
-				<button class="dropdown-item" type="button">12월</button>
+				<button class="dropdown-item" type="button">수원</button>
+				<button class="dropdown-item" type="button">용인</button>
 			</div>
 			<form class="form-inline my-2 my-lg-0">
 				<input class="form-control mr-sm-2" type="search"
@@ -48,8 +38,8 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제1</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소1</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn mb btn-custom-wine">바로가기</button>
 							</div>
 						</div>
@@ -59,8 +49,8 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제2</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소2</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
 							</div>
 						</div>
@@ -70,50 +60,8 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제3</h5>
-								<p class="card-text">축제 설명</p>
-								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-		<div class="container padding-4">
-		<div class="row">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-4">
-						<div class="card mb">
-							<img class="card-img-top" src=""
-								alt="사진">
-							<div class="card-body mb">
-								<h5 class="card-title">축제4</h5>
-								<p class="card-text">축제 설명</p>
-								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card mb">
-							<img class="card-img-top" src=""
-								alt="사진">
-							<div class="card-body mb">
-								<h5 class="card-title">축제5</h5>
-								<p class="card-text">축제 설명</p>
-								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="card mb">
-							<img class="card-img-top" src=""
-								alt="사진">
-							<div class="card-body mb">
-								<h5 class="card-title">축제6</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소3</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
 							</div>
 						</div>
@@ -132,8 +80,8 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제7</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소4</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
 							</div>
 						</div>
@@ -143,8 +91,8 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제8</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소5</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
 							</div>
 						</div>
@@ -154,8 +102,50 @@
 							<img class="card-img-top" src=""
 								alt="사진">
 							<div class="card-body mb">
-								<h5 class="card-title">축제9</h5>
-								<p class="card-text">축제 설명</p>
+								<h5 class="card-title">명소6</h5>
+								<p class="card-text">명소 설명</p>
+								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		<div class="container padding-4">
+		<div class="row">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="card mb">
+							<img class="card-img-top" src=""
+								alt="사진">
+							<div class="card-body mb">
+								<h5 class="card-title">명소7</h5>
+								<p class="card-text">명소 설명</p>
+								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card mb">
+							<img class="card-img-top" src=""
+								alt="사진">
+							<div class="card-body mb">
+								<h5 class="card-title">명소8</h5>
+								<p class="card-text">명소 설명</p>
+								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="card mb">
+							<img class="card-img-top" src=""
+								alt="사진">
+							<div class="card-body mb">
+								<h5 class="card-title">명소9</h5>
+								<p class="card-text">명소 설명</p>
 								<button type="button" class="btn btn-custom-wine mb">바로가기</button>
 							</div>
 						</div>
