@@ -16,6 +16,11 @@ public class DetailController {
 	public void detail() {
 		
 	}
+	
+	@RequestMapping(value="/review", method=RequestMethod.GET)
+	public void reviewDetail() {
+		
+	}
 
 	
 
