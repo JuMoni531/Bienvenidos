@@ -21,5 +21,5 @@
 			<img src="/resources/image/Spain.png"/>
 		</a>
 	</div>
-	<div style="height: 5px; background-color: rgb(183, 0, 56);"></div>
+<!-- 	<div style="height: 5px; background-color: rgb(183, 0, 56);"></div> -->
 </div>

@@ -14,6 +14,7 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 <link href="https://fonts.googleapis.com/css?family=Do+Hyeon|Jua|Nanum+Gothic:400,700,800&amp;subset=korean" rel="stylesheet">
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=28c3f9811dd37108bf35451683e5f7b0"></script>
+<script type="text/javascript" src="/smarteditor/se2/js/HuskyEZCreator.js"></script>
 
 <style type="text/css">
 .whiteText {
