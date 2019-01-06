@@ -5,7 +5,7 @@
 
 	<div class="container">
 		<div class="img">
-			<div class="content">
+			<div class="content whiteText">
 				<h3>명소</h3>
 			</div>
 			<div class="img-cover"></div>

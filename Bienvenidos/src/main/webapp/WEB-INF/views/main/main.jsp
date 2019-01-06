@@ -112,7 +112,7 @@
 	
 	<div class="container">
 		<div style="float: left;"><h4>명소</h4></div>
-		<div style="float: right;"><button type="button" class="btn btn-light">더보기</button></div>
+		<div style="float: right;"><a href="/list/sights"><button type="button" class="btn btn-light">더보기</button></a></div>
 	</div>
 		
 	<div class="container padding-4">
@@ -159,7 +159,7 @@
 	
 	<div class="container">
 		<div style="float: left;"><h4>축제</h4></div>
-		<div style="float: right;"><button type="button" class="btn btn-light">더보기</button></div>
+		<div style="float: right;"><a href="/list/festival"><button type="button" class="btn btn-light">더보기</button></a></div>
 	</div>
 	
 		<div class="container padding-4">
@@ -206,7 +206,7 @@
 	
 	<div class="container">
 		<div style="float: left;"><h4>숙박</h4></div>
-		<div style="float: right;"><button type="button" class="btn btn-light">더보기</button></div>
+		<div style="float: right;"><a href="/list/dorm"><button type="button" class="btn btn-light">더보기</button></a></div>
 	</div>
 	
 		<div class="container padding-4">
